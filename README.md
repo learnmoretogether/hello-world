@@ -1,4 +1,4 @@
 # hello-world
-Just another repository。
+Just another repository.
 
-It was nice to learn to communicate with everyone
+It was nice to learn to communicate with everyone.
